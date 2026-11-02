@@ -48,6 +48,14 @@
 
 ## 安装
 
+可通过官方skills CLI从GitHub安装：
+
+~~~powershell
+npx skills add chosenecho/lacan-perspective-skill --skill lacan-perspective
+~~~
+
+安装时选择需要使用的代理与范围。本仓库已通过skills CLI的隔离安装及安装后包检查。
+
 将整个仓库或发布包中的lacan-perspective文件夹放入本地技能目录，保留SKILL.md、agents和references的相对位置。例如Windows的Codex技能目录：
 
 ~~~powershell

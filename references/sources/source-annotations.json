@@ -1,0 +1,1179 @@
+{
+  "W04": {
+    "study_unit": "W04",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Targeted paragraphs on file pp3-9,11-14 concerning signifier chains, metaphor/metonymy and the subject; not the whole file.",
+    "bibliographic_unit_id": "W04"
+  },
+  "W03": {
+    "study_unit": "W03",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Opening and selected passages in sections I/III; targeted paragraphs on file pp7-12,28,39-43; not every page fully read.",
+    "bibliographic_unit_id": "W03"
+  },
+  "W05": {
+    "study_unit": "W05",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "File pp1-3,29-30,32-33 close read; targeted paragraphs on pp25-28; revised Easter 1960, published 1961, not verbatim 1958 speech.",
+    "bibliographic_unit_id": "W05"
+  },
+  "W09": {
+    "study_unit": "SEMINAR-20",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Valas transcript: 1973-02-20 file pp162-163; 1973-06-26 pp290,292-293 close read; other passages only located.",
+    "bibliographic_unit_id": "W09"
+  },
+  "W13": {
+    "study_unit": "W13",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Selected paragraphs on file pp1-4,6-9,11-12; 1960 conference material condensed/reworked March 1964; URL and header day differ.",
+    "bibliographic_unit_id": "W13"
+  },
+  "W12": {
+    "study_unit": "W12",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "Full article read on the Kingston Cahiers historical-publication site; 1965-12-01 lecture published 1966; local HTML/text retained.",
+    "bibliographic_unit_id": "W12"
+  },
+  "W01": {
+    "study_unit": "W01",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "All 4 file pages of the 1949 archival reproduction; not an assumed 1936 transcript or a 1966 revision.",
+    "bibliographic_unit_id": "W01"
+  },
+  "W02": {
+    "study_unit": "W02",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Opening and early S/I/R discussion, approximately file pp1-9; not the full 30-page file.",
+    "bibliographic_unit_id": "W02"
+  },
+  "W06e": {
+    "study_unit": "W06",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Fink English translation: selected subject/knowledge, graph, desire and lack-in-Other passages; 32 file pages total, not a French original.",
+    "bibliographic_unit_id": "W06"
+  },
+  "W16": {
+    "study_unit": "W16",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Approximately first 1500 characters plus relevant contexts on each file p1,4,6,9,10,11; not full 28-page text.",
+    "bibliographic_unit_id": "W16"
+  },
+  "W17": {
+    "study_unit": "W17",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Opening approximately 1500 characters and target paragraphs on each file p1,2,6,7; not the full article.",
+    "bibliographic_unit_id": "W17"
+  },
+  "W07": {
+    "study_unit": "SEMINAR-11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1964-01-22 file pp12-15; 1964-02-12 pp36-39; 1964-05-13 pp119,121,124,127-128 close read plus adjacent targeted passages. p126 includes Jacques-Alain Miller question, not all Lacan.",
+    "bibliographic_unit_id": "W07"
+  },
+  "W08": {
+    "study_unit": "SEMINAR-17",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1969-11-26 file pp3-7; 1969-12-17 pp14-18 close read; not whole seminar.",
+    "bibliographic_unit_id": "W08"
+  },
+  "W10": {
+    "study_unit": "SEMINAR-22",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Frontmatter p2; 1974-11-19 and 1974-12-10 file pp3-10 close read, especially pp6-10; not whole seminar.",
+    "bibliographic_unit_id": "W10"
+  },
+  "W11": {
+    "study_unit": "SEMINAR-23",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1975-11-18 file pp3-5; 1976-02-17 p69; 1976-03-16 pp88-90; 1976-05-11 pp108-109 close read; target excerpts p98 and pp106-110; not whole seminar.",
+    "bibliographic_unit_id": "W11"
+  },
+  "W15": {
+    "study_unit": "SEMINAR-7",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1960-07-06 target paragraphs on file pp269-271,274-276; approximately first 2300 characters of each selected page plus contextual excerpts; not whole pages or seminar.",
+    "bibliographic_unit_id": "W15"
+  },
+  "W06-fr": {
+    "study_unit": "W06",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Authoritative writings reading receipt; editions of the same work share a unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Only source statement file p2 and target French paragraphs file pp16-17,20 cross-checked. Bracketed editorial comments excluded; source statement cites unidentified internet document and Fierens, not a critical edition.",
+    "bibliographic_unit_id": "W06"
+  },
+  "C01": {
+    "study_unit": "C01",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–10 (all text); interview/editorial labels distinguished",
+    "version_note": "Newspaper interview; edited journalistic presentation, not raw recording. L’Express no.310."
+  },
+  "C02": {
+    "study_unit": "C02",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–4 (all text)",
+    "version_note": "Interview date 1966-11-26; Les Lettres françaises no.1159 published 1966-12-01–07."
+  },
+  "C03": {
+    "study_unit": "C03",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "English text PDF 1–10 in full; French translation PDF 11–20 not independently checked",
+    "version_note": "English proceedings published 1970; source expressly includes edited transcription and paraphrase of mixed English/French delivery. French translator not identified in this archived file."
+  },
+  "C04": {
+    "study_unit": "C04",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "archived_not_claimed_read",
+    "reading_scope": "Archived only; not read for dimension 02 conclusions",
+    "version_note": "Archived only in dimension 02. No full-text reading claim."
+  },
+  "C05": {
+    "study_unit": "C05",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "archived_not_claimed_read",
+    "reading_scope": "Archived only; not read for dimension 02 conclusions",
+    "version_note": "Archived only in dimension 02. No full-text reading claim."
+  },
+  "C06": {
+    "study_unit": "C06",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–3 (all text); television cuts/editorial narrative retained"
+  },
+  "C07": {
+    "study_unit": "C07",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C08": {
+    "study_unit": "C08",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–12 (all text); PDF 7 re-read for quote; original printed pp.6–26",
+    "version_note": "Unrevised-by-author transcription. Verified phrase means written to be read; the old written to produce effects quote is an unverified splice, not preserved as a direct quotation."
+  },
+  "C09": {
+    "study_unit": "C09",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "French back-translation PDF 8–14 in full; Italian PDF 1–7 not line-checked; LOW CONFIDENCE",
+    "version_note": "French conversation → Italian newspaper → French back-translation. Contradictions with other reliable texts; downgraded for conceptual inference, not proven wholly fabricated."
+  },
+  "C10": {
+    "study_unit": "C10",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passage_read",
+    "reading_scope": "PDF 1 only; 13 other pages have no extracted text; full work read via C13c, not double counted",
+    "version_note": "Image-only text-layer limitation on 13 pages; not empty source. Same work as C13c. Does not count as an additional full-text unit."
+  },
+  "C11": {
+    "study_unit": "C11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–15 (all text); questions, interpreter and replies distinguished",
+    "version_note": "ELP header labels Scilicet 6/7 as 1975, but ECF official bibliography PDF pp.60–61 gives Seuil 1976. Distinguish 1975 event date from 1976 publication. Preserve objections, interpreter turns and replies."
+  },
+  "C12": {
+    "study_unit": "C12",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "archived_not_claimed_read",
+    "reading_scope": "Archived only; not read for dimension 02 conclusions",
+    "version_note": "Archived only in dimension 02. No full-text reading claim."
+  },
+  "C13": {
+    "study_unit": "C13",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C14": {
+    "study_unit": "C14",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C15": {
+    "study_unit": "C15",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–7 (all text); diagrams not claimed clinically validated",
+    "version_note": "Lecture/Q&A with board descriptions; formal/empirical claims kept distinct. Scilicet 6/7 published 1976; not the 1975 lecture year printed in ELP header."
+  },
+  "C16": {
+    "study_unit": "C16",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C17": {
+    "study_unit": "C17",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C07b": {
+    "study_unit": "C07b",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed"
+  },
+  "C13b": {
+    "study_unit": "C13b",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "failed_retrieval",
+    "reading_scope": "No source text read; retrieval failed",
+    "version_note": "Cairn 2017 revised edition retrieval denied 403; never read or archived. Do not transfer its page numbering to C13c."
+  },
+  "C18": {
+    "study_unit": "C18",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Not a separate high-confidence substantive dialogue: see scope and version note",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "metadata_read",
+    "reading_scope": "Complete short programme description; date metadata only, not a primary dialogue unit",
+    "version_note": "World Association of Psychoanalysis audio-archive metadata confirms broadcast dates. 01.01.1973 field not treated as exact recording date."
+  },
+  "C13c": {
+    "study_unit": "C13c",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "Entire lecture and Q&A body; local extraction approximately lines 60–346; navigation excluded",
+    "version_note": "Ecole Freudienne working document based on Le Bloc-notes de la psychanalyse no.5 (1985), pp.5–23, not the unavailable 2017 re-establishment. Same historical event as C10."
+  },
+  "C07c": {
+    "study_unit": "C07c",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Nine substantively read interview/lecture units; edited/transcribed mediation retained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_text_read",
+    "reading_scope": "PDF 1–15 (all text); editorial square brackets excluded from attribution; no audiovisual collation",
+    "version_note": "Third-party mirror of literal audiovisual working transcription. Filmed 1973; broadcast 1974-03-09 and 1974-03-16. Seuil 1974 book rewritten/expanded; editorial brackets are not Lacan. Exact recording day not established."
+  },
+  "E02": {
+    "study_unit": "E02",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "full-text searched; close-read Double Standards, Lacanian Topology, Conclusion"
+  },
+  "E03": {
+    "study_unit": "E03",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic record only; Derrida essay not obtained",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "bibliographic_only",
+    "reading_scope": "bibliographic/course record only; original essay not read"
+  },
+  "E05": {
+    "study_unit": "E05",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected: biography, RSI/conceptual evolution, sexuality sections"
+  },
+  "E07": {
+    "study_unit": "E07",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "full text obtained; close-read destination/divisibility/institution/archive passages, not claim every sentence read"
+  },
+  "E01": {
+    "study_unit": "E01",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected: English preface and Introduction; no Lacan chapter in excerpt"
+  },
+  "E06": {
+    "study_unit": "E06",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected relevant passages within PDF pages1,4-7,10-12,22-24; not claim page-by-page whole chapter reading"
+  },
+  "E10": {
+    "study_unit": "E10",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected: introduction/method overview, chapter2 sample/results/limitations, methodology discussion; not whole dissertation"
+  },
+  "E11": {
+    "study_unit": "E11",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected: introduction and Krips reply PDF pages8-10"
+  },
+  "E04": {
+    "study_unit": "E04",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "selected: same-title chapter; The Power of Discourse; Cosi Fan Tutti; PDF files pages 11-16,35-52"
+  },
+  "E13": {
+    "study_unit": "E13",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "full introduction obtained; selected close reading especially PDF pages2,4-5,9-15; not claim every sentence read"
+  },
+  "E09": {
+    "study_unit": "E09",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "abstract, methods, results/discussion, limitations, table; PDF pages1,3,9-10,13"
+  },
+  "E12": {
+    "study_unit": "E12",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_selected_or_full_as_specified",
+    "reading_scope": "full reprint obtained; close-read critique of reduction to family schemas; original interview date unconfirmed"
+  },
+  "E08": {
+    "study_unit": "E08",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Critic/scholar text substantively used within specified scope; E08 via web with local download failed",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "read_via_web_local_download_failed",
+    "reading_scope": "22-page full text available through web; relevant style/mathematics/science passages close-read; original PDF not archived locally"
+  },
+  "D01": {
+    "study_unit": "D01",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF p1; letter dated1953-07-04 in header, archive index/URLJuly14"
+  },
+  "D02": {
+    "study_unit": "D02",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF p1; original printed pp136-137"
+  },
+  "D03": {
+    "study_unit": "D03",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF p1; original publication January1977 Ornicar8 supplement p91"
+  },
+  "D04": {
+    "study_unit": "D04",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-7; act, added note and preamble; Annuaire1965 first publication;1977 pagination78-86"
+  },
+  "D05": {
+    "study_unit": "PROPOSITION-1967",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp1-3,7-9; first spoken-version witness; publication Analytica8,1978 per header; not fully read pp4-6"
+  },
+  "D06": {
+    "study_unit": "PROPOSITION-1967",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp1-4,8-10; Scilicet1 first trimester1968 pp14-30; not fully read pp5-7"
+  },
+  "D07": {
+    "study_unit": "D07",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF p1 and pp10-12; p1 identifies rewriting and continuation dated1970-10-01, pp10-12 are not assumed1967 verbatim speech"
+  },
+  "D08": {
+    "study_unit": "D08",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-2; broadcast1967-02-08, Bulletin Association Freudienne3 May1983 pp6-7"
+  },
+  "D09": {
+    "study_unit": "D09",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp1,7-8; interrupted exchange; Magazine litteraire121 February1977; not full pp2-6"
+  },
+  "D10": {
+    "study_unit": "D10",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF p1; Assises1978-01-08; Lettres Ecole23 (1978) pp180-181"
+  },
+  "D11": {
+    "study_unit": "D11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-2; letter signed Guitrancourt1980-01-05"
+  },
+  "D12": {
+    "study_unit": "D12",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF p1; speech1980-07-05; Valas/Oedipe archival presentation; no independent vote tally"
+  },
+  "D13": {
+    "study_unit": "D13",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-3; historical part pp1-2; SPRF/IPA institutional retrospective after2015"
+  },
+  "D14": {
+    "study_unit": "D14",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "HTML biography and fonds-content paragraphs, heading Leclaire Serge1924-1994; metadata/archival description, not inspection of fonds documents"
+  },
+  "D15": {
+    "study_unit": "D15",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "HTML school introduction and Une Ecole une orientation; no reading claim for all current personnel/agenda"
+  },
+  "D16": {
+    "study_unit": "D16",
+    "lacan_primary": true,
+    "substantively_used": false,
+    "curation_reason": "Metadata only, failed or archived unread",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "metadata_read",
+    "reading_scope": "Full PDF p1 but only title/bibliographical notice; no1936 argument to close-read"
+  },
+  "D17": {
+    "study_unit": "D17",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF p4 organizational self-description only; rest of16-page publisher excerpt not claimed read"
+  },
+  "D18": {
+    "study_unit": "D18",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Metadata only, failed or archived unread",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "not_read_download_failed",
+    "reading_scope": "Failed404; no downloaded primary Perrier text used"
+  },
+  "D19": {
+    "study_unit": "D19",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-3; signed1973-01-01, published Seuil1973 pp251-254"
+  },
+  "D20": {
+    "study_unit": "D20",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "HTML section3 Conflits scissions and the1953/1963 passages; not entire SPP history"
+  },
+  "D21": {
+    "study_unit": "D21",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Metadata only, failed or archived unread",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "metadata_read",
+    "reading_scope": "BnF bibliographical notice only, title/publication/physical-description fields"
+  },
+  "D22": {
+    "study_unit": "D22",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "HTML La Section clinique and university research/diploma/practice distinction; no historical council minutes"
+  },
+  "D23": {
+    "study_unit": "D23",
+    "lacan_primary": true,
+    "substantively_used": false,
+    "curation_reason": "Metadata only, failed or archived unread",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "archived_not_claimed_read",
+    "reading_scope": "Archived10-page letter to Rudolph Loewenstein; not used for substantive claims in05"
+  },
+  "D24": {
+    "study_unit": "W01",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Full PDF pp1-4;1949 original published witness, congress1949-07-17; not a1936 verbatim transcript",
+    "bibliographic_unit_id": "W01"
+  },
+  "D25": {
+    "study_unit": "W03",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp40-43;1953 Rome report published1956; timing and short-session argument only",
+    "bibliographic_unit_id": "W03"
+  },
+  "D26": {
+    "study_unit": "SEMINAR-11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp3-5; session1964-01-15; Staferla working transcription, editorial brackets excluded"
+  },
+  "D27": {
+    "study_unit": "C07c",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp1-3; programme metadata and opening television exchange; square brackets not Lacan; no audiovisual collation",
+    "version_note": "Third-party mirror of literal audiovisual working transcription. Filmed 1973; broadcast 1974-03-09 and 1974-03-16. Seuil 1974 book rewritten/expanded; editorial brackets are not Lacan. Exact recording day not established."
+  },
+  "D28": {
+    "study_unit": "E09",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp1,3,9-10,13; sample14, benefits and unwanted effects, limitations and original effects table"
+  },
+  "D29": {
+    "study_unit": "D11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp6-7,1980-01-05 dissolution letter; another witness to D11, not another substantive unit"
+  },
+  "D30": {
+    "study_unit": "C08",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF p7; press conference1974-10-29, first printed1975; reading/difficulty explanation",
+    "version_note": "Unrevised-by-author transcription. Verified phrase means written to be read; the old written to produce effects quote is an unverified splice, not preserved as a direct quotation."
+  },
+  "D31": {
+    "study_unit": "SEMINAR-17",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Action-study reading receipt; shared works and dissolution witnesses deduplicated",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "PDF pp3-4; session1969-11-26 opening, faculty loan and four planned impromptus; working transcription"
+  },
+  "D32": {
+    "study_unit": "D32",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Metadata only, failed or archived unread",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "metadata_read",
+    "reading_scope": "Complete short programme description; metadata confirms1973 filming and1974-03-09/16 broadcast; not a dialogue unit",
+    "version_note": "World Association of Psychoanalysis audio-archive metadata confirms broadcast dates. 01.01.1973 field not treated as exact recording date."
+  },
+  "T01": {
+    "study_unit": "E05",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Targeted chronology and publication sections: §1, bibliography; overview only; not full text counted"
+  },
+  "T02": {
+    "study_unit": "W01",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 report and first publication header; source alias W01; no duplicate primary unit"
+  },
+  "T03": {
+    "study_unit": "W02",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 date and multiple-version notice; source alias W02; no duplicate primary unit"
+  },
+  "T04": {
+    "study_unit": "W03",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 1956 first publication and Rome report dates; source alias W03"
+  },
+  "T05": {
+    "study_unit": "T05",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Historical sections10 and13; extracted lines1019-1063 and1217-1260; documents quoted by institutional historian, not archival originals"
+  },
+  "T06": {
+    "study_unit": "D13",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File pages1-2 institutional summary of1953,1964 andpass split; IPA hosts SPRF authored history"
+  },
+  "T07": {
+    "study_unit": "D04",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File pages1 and3 founding declaration, date and editorial first-publication note; rest not claimed full read"
+  },
+  "T08": {
+    "study_unit": "PROPOSITION-1967",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 editorial note on1967 oral and1978 first-version publication; no full text read claim"
+  },
+  "T09": {
+    "study_unit": "PROPOSITION-1967",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 editorial note on1968 Scilicet publication and beginning of proposal; no full text read claim"
+  },
+  "T10": {
+    "study_unit": "D14",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Extracted line263 complete Leclaire archival biographical paragraph, not entire collection catalogue"
+  },
+  "T11": {
+    "study_unit": "D09",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File page1 source/transmission header and final page closing; historical date only, not full transcript reading"
+  },
+  "T12": {
+    "study_unit": "T12",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "File pages1-2 bibliography, Television body and broadcasting footnote; remaining3pages not claimed read"
+  },
+  "T13": {
+    "study_unit": "D11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_short_document_read",
+    "reading_scope": "Full2file-page letter read, including legal process and signature date"
+  },
+  "T14": {
+    "study_unit": "T14",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_short_document_read",
+    "reading_scope": "Full1file-page card read; header malformed date,正文21February1980 decisive"
+  },
+  "T15": {
+    "study_unit": "T15",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "full_short_document_read",
+    "reading_scope": "Full1file-page signed declaration reproduction read, including birth date and association name"
+  },
+  "T16": {
+    "study_unit": "D15",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Core official institutional history paragraph: foundedJanuary1981, first presidentLacan; navigation excluded"
+  },
+  "T17": {
+    "study_unit": "T17",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Publication description and editing-boundary paragraphs, extracted lines490-522; not whole book"
+  },
+  "T18": {
+    "study_unit": "T18",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "L Ecole debat18 dated2025-12-23 15h30, extracted lines1070-1084; rest of long debate not claimed read"
+  },
+  "T19": {
+    "study_unit": "T19",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "ISBN/EAN/date/editor trade bibliographic fields only"
+  },
+  "T20": {
+    "study_unit": "T20",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "ISBN/date/editor trade bibliographic fields and publication synopsis only"
+  },
+  "T21": {
+    "study_unit": "T21",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "National library fields title, publication1967, extent3volumes767pages, lecture dates1965/66, mimeograph note"
+  },
+  "T22": {
+    "study_unit": "T22",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Editorial protocol lines234-242 plus complete attachment URL date-pattern inventory; not all400texts read"
+  },
+  "T23": {
+    "study_unit": "T23",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Official book core title/date/extent/EAN and canonical link; not full2025book"
+  },
+  "T24": {
+    "study_unit": "T24",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Official book core title/date/extent/EAN and canonical link; not full2026book"
+  },
+  "T25": {
+    "study_unit": "T25",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "checked_and_excluded",
+    "reading_scope": "Wrong author excluded: ID4197 isAndreMartin, misleadingJacquesLacanslug"
+  },
+  "T26": {
+    "study_unit": "T26",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Institutional history foundation and training-recognition paragraphs; not all institutional sections"
+  },
+  "T27": {
+    "study_unit": "T27",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Official author biographical and latest-publication field with five current bibliography entries; direct latest scopeSeuilauthorpage"
+  },
+  "T28": {
+    "study_unit": "C18",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Programme description dates; aliasC18; not independently counted interview unit"
+  },
+  "T29": {
+    "study_unit": "T29",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "National library first-edition publication/extent fields only"
+  },
+  "T30": {
+    "study_unit": "T30",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Official book date1974-02-01, ISBN and80page extent; not full book"
+  },
+  "T31": {
+    "study_unit": "T31",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Official book date2023-01-27, ISBN and160page extent; not full book"
+  },
+  "T32": {
+    "study_unit": "T32",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "unavailable_not_read",
+    "reading_scope": "404 attempt preserved, no evidence use"
+  },
+  "T33": {
+    "study_unit": "T33",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "Institutional programme announcement ofXIII January2026publication, crosscheck only"
+  },
+  "T34": {
+    "study_unit": "T34",
+    "lacan_primary": false,
+    "substantively_used": false,
+    "curation_reason": "Bibliographic/programme/date fields, crosscheck-only, excluded identity or unavailable source; not substantive-text denominator",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "targeted_evidence_read",
+    "reading_scope": "National library authority biographical creator/1968 field; date contrasted withIMEC1969"
+  },
+  "T35": {
+    "study_unit": "T35",
+    "lacan_primary": false,
+    "substantively_used": true,
+    "curation_reason": "Substantive historical passage/document actually read; Lacan authorship separately classified",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_pages_visually_read",
+    "reading_scope": "Visual inspection only of filepages1,4,8: department heading, Leclaire1968-12-18 meeting note,1969-01-13 timetable date; PDFtext extraction empty on8pages, not empty document"
+  },
+  "STA-S13": {
+    "study_unit": "SEMINAR-13",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Three complete sampled passages plus context; not entire seminar",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Voice study scope recorded in voice_scope; no full-text claim"
+  },
+  "STA-S7": {
+    "study_unit": "SEMINAR-7",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1960-07-06 target paragraphs on file pp269-271,274-276; approximately first 2300 characters of each selected page plus contextual excerpts; not whole pages or seminar.",
+    "bibliographic_unit_id": "W15"
+  },
+  "STA-S11": {
+    "study_unit": "SEMINAR-11",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1964-01-22 file pp12-15; 1964-02-12 pp36-39; 1964-05-13 pp119,121,124,127-128 close read plus adjacent targeted passages. p126 includes Jacques-Alain Miller question, not all Lacan.",
+    "bibliographic_unit_id": "W07"
+  },
+  "STA-S17": {
+    "study_unit": "SEMINAR-17",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1969-11-26 file pp3-7; 1969-12-17 pp14-18 close read; not whole seminar.",
+    "bibliographic_unit_id": "W08"
+  },
+  "STA-S20": {
+    "study_unit": "SEMINAR-20",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Valas transcript: 1973-02-20 file pp162-163; 1973-06-26 pp290,292-293 close read; other passages only located.",
+    "bibliographic_unit_id": "W09"
+  },
+  "STA-S22": {
+    "study_unit": "SEMINAR-22",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "Frontmatter p2; 1974-11-19 and 1974-12-10 file pp3-10 close read, especially pp6-10; not whole seminar.",
+    "bibliographic_unit_id": "W10"
+  },
+  "STA-S23": {
+    "study_unit": "SEMINAR-23",
+    "lacan_primary": true,
+    "substantively_used": true,
+    "curation_reason": "Archive alias for an explicitly read seminar; same study unit",
+    "curated_as_of": "2026-11-03",
+    "reading_status": "selected_passages_read",
+    "reading_scope": "1975-11-18 file pp3-5; 1976-02-17 p69; 1976-03-16 pp88-90; 1976-05-11 pp108-109 close read; target excerpts p98 and pp106-110; not whole seminar.",
+    "bibliographic_unit_id": "W11"
+  }
+}

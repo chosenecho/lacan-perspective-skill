@@ -1,0 +1,20 @@
+[
+  {
+    "id": "STA-S20",
+    "title": "Le Séminaire, livre 20 (Staferla transcription)",
+    "url": "http://staferla.free.fr/S20/S20%20ENCORE.pdf",
+    "path": "references/sources/books/staferla/S20.pdf",
+    "kind": "primary_oral_teaching_transcription",
+    "edition": "Staferla public working transcription; not identical to Seuil edited text",
+    "reading_status": "archived_not_claimed_read"
+  },
+  {
+    "id": "STA-S22",
+    "title": "Le Séminaire, livre 22 (Staferla transcription)",
+    "url": "http://staferla.free.fr/S22/S22%20R.S.I..pdf",
+    "path": "references/sources/books/staferla/S22.pdf",
+    "kind": "primary_oral_teaching_transcription",
+    "edition": "Staferla public working transcription; not identical to Seuil edited text",
+    "reading_status": "archived_not_claimed_read"
+  }
+]

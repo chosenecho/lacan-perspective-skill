@@ -1,0 +1,1382 @@
+{
+  "schema_version": 1,
+  "study_date_local": "2026-11-03",
+  "design": "20 purposive complete typeset paragraphs or short answer paragraphs; seven source/media groups; not a random or representative sample",
+  "selection_bias": "Contrast and reusable clarification, analogy and qualification overrepresented; unequal lengths, no minimum length. Context objections read separately, excluded from speaker counts.",
+  "method": {
+    "tokens": "French letters; internal apostrophes/hyphens stay in one token; digits excluded; no OCR split-word repair",
+    "sentences": "Surface segments at .?!; ellipses suppressed as pauses; small explicit abbreviation list; semicolons/colons not boundaries. Ellipsis-boundary sensitivity retained. Not a French parser or audio analysis.",
+    "first_person": "je/j-apostrophe/me/m-apostrophe/moi including quoted uses; nous separate",
+    "contrast": "mais,pourtant,cependant,neanmoins,toutefois,or,au contraire,en revanche: lexical, not functional counts",
+    "figures": "Surface comme/par exemple/comparaison/de la meme facon/a la facon are not semantic analogy frequency. Manual paragraph labels distinguish analogy, metaphor, formal model and example.",
+    "cleaning": "Collapse whitespace; remove nested square-bracket editorial additions and selected inline original-page labels. Anchors exclude interviewer/speaker labels. JSON stores no source paragraphs.",
+    "limitations": [
+      "Edited punctuation and paragraphing; no audio timing/prosody checked",
+      "TV prepared, Yale interpreted/edited, paper originates in oral lesson; medium confounded with date/topic/editor",
+      "Regex cannot reliably resolve all French abbreviations/pauses; surface count only",
+      "Small unequal groups and long press paragraph; no significance or author-wide claim",
+      "Bracket attribution manually checked against work-transcript warnings"
+    ]
+  },
+  "sources": {
+    "C01": {
+      "path": "references/sources/transcripts/conversations/C01-Chapsal_LExpress_1957.txt",
+      "sha256": "4ca6a807ff2ef9ae87fa573a6549921731927d833983be9239f7fa3bb0684bce",
+      "genre": "newspaper_interview",
+      "date": "1957-05-31"
+    },
+    "W12": {
+      "path": "references/sources/articles/writings/W12-science-truth-1966.txt",
+      "sha256": "d2b5f3f24b4d5edc2f5293d7419327af8d7908bb7c337830d35f13f506d5a18f",
+      "genre": "published_paper",
+      "date": "1965-12-01 / published 1966"
+    },
+    "STA-S13": {
+      "path": "references/sources/books/staferla/S13.txt",
+      "sha256": "52d0f7324b866a236409d4ceadbe3bac02d4fa23ca84a5816e4223f672067801",
+      "genre": "live_seminar",
+      "date": "1966-01-05"
+    },
+    "C07c": {
+      "path": "references/sources/transcripts/conversations/C07c-Television_literal.txt",
+      "sha256": "2c839907a107808d701d32e85ffe46e93d64eee5c47668b89741acd2bdae08df",
+      "genre": "prepared_television",
+      "date": "recorded 1973 / broadcast 1974"
+    },
+    "C08": {
+      "path": "references/sources/transcripts/conversations/C08-Rome_presse_1974.txt",
+      "sha256": "61b094f0c47702d761779b6a23068b2f7477e995de9e86410c183be1fb9b76e8",
+      "genre": "press_conference",
+      "date": "1974-10-29"
+    },
+    "C11": {
+      "path": "references/sources/transcripts/conversations/C11-Yale_Kanzer_1975.txt",
+      "sha256": "a9296d579956b392cb50a1bc272bdca6882f72b069c94ba85f918854bc283f9e",
+      "genre": "peer_questions",
+      "date": "1975-11-24 / published 1976"
+    },
+    "C13c": {
+      "path": "references/sources/articles/conversations/C13c-Geneve_1975.txt",
+      "sha256": "357a1256db76348f3838d6a422b208e3fe8c698e0983870ebf605b97b43ced34",
+      "genre": "clinical_lecture_questions",
+      "date": "1975-10-04 / 1985 working text"
+    }
+  },
+  "sample_count": 20,
+  "source_count": 7,
+  "samples": [
+    {
+      "id": "V01",
+      "source_id": "C01",
+      "genre": "newspaper_interview",
+      "path": "references/sources/transcripts/conversations/C01-Chapsal_LExpress_1957.txt",
+      "pdf_file_page": 2,
+      "text_lines_1_based": [
+        66,
+        70
+      ],
+      "raw_character_range_0_based_half_open": [
+        3740,
+        4138
+      ],
+      "start_marker": "Savoir qu’il y a",
+      "end_marker": "à une puissance seconde.",
+      "raw_utf8_sha256": "3ce2719b672e4fd2d37f5d35bd9ba646a5ee8c7b4d28e978622e9f03efbad3d9",
+      "clean_utf8_sha256": "6b64462c4760f3b9791d77d3114e894445d185fd0618cf6c8090e0ca5e46544e",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "Champollion; bounded comparison",
+      "metrics": {
+        "words": 65,
+        "sentence_segments": 4,
+        "sentence_word_lengths": [
+          27,
+          10,
+          14,
+          14
+        ],
+        "mean_words_per_segment": 16.25,
+        "median_words_per_segment": 14.0,
+        "segments_if_ellipsis_is_boundary": 4,
+        "question_marks": 0,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 1,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V02",
+      "source_id": "C01",
+      "genre": "newspaper_interview",
+      "path": "references/sources/transcripts/conversations/C01-Chapsal_LExpress_1957.txt",
+      "pdf_file_page": 2,
+      "text_lines_1_based": [
+        98,
+        101
+      ],
+      "raw_character_range_0_based_half_open": [
+        6045,
+        6412
+      ],
+      "start_marker": "Voyez les hiéroglyphes égyptiens",
+      "end_marker": "auquel il appartient.",
+      "raw_utf8_sha256": "ce78004d6c0796456fbd8bfe9aa1bce7ffe834de2a4ea58a624079eedb5ba779",
+      "clean_utf8_sha256": "b3ae88e09f8f6a3780f73fb7ca41eaed8e50e30419f6d1a345b9ddd6bf7ae563",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "writing system and isolated signs",
+      "metrics": {
+        "words": 56,
+        "sentence_segments": 2,
+        "sentence_word_lengths": [
+          28,
+          28
+        ],
+        "mean_words_per_segment": 28,
+        "median_words_per_segment": 28.0,
+        "segments_if_ellipsis_is_boundary": 2,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V03",
+      "source_id": "C01",
+      "genre": "newspaper_interview",
+      "path": "references/sources/transcripts/conversations/C01-Chapsal_LExpress_1957.txt",
+      "pdf_file_page": 3,
+      "text_lines_1_based": [
+        159,
+        163
+      ],
+      "raw_character_range_0_based_half_open": [
+        9890,
+        10350
+      ],
+      "start_marker": "Le terme de « censure",
+      "end_marker": "exprimé dans un langage.",
+      "raw_utf8_sha256": "2ab0b2cbec16f0c802a23c7e840dd44e6cd95d3f6f844f4efed1523869300096",
+      "clean_utf8_sha256": "885cb2559063eb3fe5e480e4f90688b6023889fe3022c36e24ea8d6ff16d01b7",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "censorship/scissors and repression",
+      "metrics": {
+        "words": 74,
+        "sentence_segments": 4,
+        "sentence_word_lengths": [
+          29,
+          20,
+          3,
+          22
+        ],
+        "mean_words_per_segment": 18.5,
+        "median_words_per_segment": 21.0,
+        "segments_if_ellipsis_is_boundary": 4,
+        "question_marks": 2,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 1,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 1,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V04",
+      "source_id": "W12",
+      "genre": "published_paper",
+      "path": "references/sources/articles/writings/W12-science-truth-1966.txt",
+      "pdf_file_page": null,
+      "text_lines_1_based": [
+        83,
+        90
+      ],
+      "raw_character_range_0_based_half_open": [
+        1466,
+        2029
+      ],
+      "start_marker": "Mais pour qu’il sache",
+      "end_marker": "égale à sa tache.",
+      "raw_utf8_sha256": "92b7589ab2f66a2b1878ef30de09aecf9e98e24d10f51b9c603ca630c0307975",
+      "clean_utf8_sha256": "5793a2e019a8e4012fea1d8acf603c108c11d61a656f27417787408298301cc1",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "empirical fact versus constituted object",
+      "metrics": {
+        "words": 95,
+        "sentence_segments": 3,
+        "sentence_word_lengths": [
+          47,
+          23,
+          25
+        ],
+        "mean_words_per_segment": 31.667,
+        "median_words_per_segment": 25,
+        "segments_if_ellipsis_is_boundary": 3,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 2,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 2,
+        "analogy_surface_markers": {
+          "comme": 1,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V05",
+      "source_id": "W12",
+      "genre": "published_paper",
+      "path": "references/sources/articles/writings/W12-science-truth-1966.txt",
+      "pdf_file_page": null,
+      "text_lines_1_based": [
+        117,
+        121
+      ],
+      "raw_character_range_0_based_half_open": [
+        3485,
+        3856
+      ],
+      "start_marker": "Ce fil ne nous",
+      "end_marker": "viennent se conjoindre.",
+      "raw_utf8_sha256": "e3ee24eb1f1c43fdea53b2c16bffd774089d8eb2a3f243fb09025adc0de52cc2",
+      "clean_utf8_sha256": "a3fb438c70701c5390a5bcabcc7a1cb13ba3f30d54bd88823c66f662db64be0c",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "formal_model",
+      "manual_annotation": "Moebius model; not just an illustration",
+      "metrics": {
+        "words": 61,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          61
+        ],
+        "mean_words_per_segment": 61,
+        "median_words_per_segment": 61,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 2,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 1,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V06",
+      "source_id": "W12",
+      "genre": "published_paper",
+      "path": "references/sources/articles/writings/W12-science-truth-1966.txt",
+      "pdf_file_page": null,
+      "text_lines_1_based": [
+        165,
+        173
+      ],
+      "raw_character_range_0_based_half_open": [
+        6137,
+        6762
+      ],
+      "start_marker": "Nous disons, contrairement",
+      "end_marker": "à jamais son nom.",
+      "raw_utf8_sha256": "68b45888c6c46ab26db3597bdf5dfd41576f9e7c8ea0d1866d81eabb64a44798",
+      "clean_utf8_sha256": "e30e71f0c0bd28cc7eb3519f2a66b9fe6216415a748c22d9c679bb4103a0c8b5",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "long historical counterclaim",
+      "metrics": {
+        "words": 101,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          101
+        ],
+        "mean_words_per_segment": 101,
+        "median_words_per_segment": 101,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 2,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 2,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 2
+      }
+    },
+    {
+      "id": "V07",
+      "source_id": "STA-S13",
+      "genre": "live_seminar",
+      "path": "references/sources/books/staferla/S13.txt",
+      "pdf_file_page": 68,
+      "text_lines_1_based": [
+        3805,
+        3811
+      ],
+      "raw_character_range_0_based_half_open": [
+        265217,
+        265910
+      ],
+      "start_marker": "Je suis venu de loin",
+      "end_marker": "qui s’appelle le moi.",
+      "raw_utf8_sha256": "aff1609fc210e34e6ad6b78b99977281e0dd76065a59ec88356ad4733bc5417b",
+      "clean_utf8_sha256": "dd114474f3df0d2263d579f1d857482b4aad742be0d94d121f83f6be3f1be201",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "metaphor",
+      "manual_annotation": "gold thread; long retrospective sentence",
+      "metrics": {
+        "words": 122,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          122
+        ],
+        "mean_words_per_segment": 122,
+        "median_words_per_segment": 122,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 5,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 1,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 1,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V08",
+      "source_id": "STA-S13",
+      "genre": "live_seminar",
+      "path": "references/sources/books/staferla/S13.txt",
+      "pdf_file_page": 68,
+      "text_lines_1_based": [
+        3814,
+        3818
+      ],
+      "raw_character_range_0_based_half_open": [
+        265920,
+        266312
+      ],
+      "start_marker": "Je ne l’ai pas appelé",
+      "end_marker": "l’aliénation fondamentale.",
+      "raw_utf8_sha256": "c2266f701a4763718785a4b7a80ccce91a92532cfb1034ed6d89d54ae973ccb8",
+      "clean_utf8_sha256": "d05cdebc212d17260f88a340c8552809b88ecaa76d9d18c0a202b633bec64562",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "explicit_example",
+      "manual_annotation": "alternative i(s) notation; self correction",
+      "metrics": {
+        "words": 64,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          64
+        ],
+        "mean_words_per_segment": 64,
+        "median_words_per_segment": 64,
+        "segments_if_ellipsis_is_boundary": 3,
+        "question_marks": 0,
+        "first_person_singular_markers": 2,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 1,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V09",
+      "source_id": "STA-S13",
+      "genre": "live_seminar",
+      "path": "references/sources/books/staferla/S13.txt",
+      "pdf_file_page": 69,
+      "text_lines_1_based": [
+        3883,
+        3884
+      ],
+      "raw_character_range_0_based_half_open": [
+        270653,
+        270871
+      ],
+      "start_marker": "Que nous sommes déjà récompensés",
+      "end_marker": "que l’homme atteint ?",
+      "raw_utf8_sha256": "423dc26894f8ec843df1f1311249ae0823164ce8cec68d7c69f8f0db3b66323e",
+      "clean_utf8_sha256": "976f9255104aeb463110677b30fb2f350690b9c8d646dd14ce05d5a54f20e9ff",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "exclamation then a classroom question",
+      "metrics": {
+        "words": 36,
+        "sentence_segments": 2,
+        "sentence_word_lengths": [
+          17,
+          19
+        ],
+        "mean_words_per_segment": 18,
+        "median_words_per_segment": 18.0,
+        "segments_if_ellipsis_is_boundary": 2,
+        "question_marks": 1,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 2,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V10",
+      "source_id": "C07c",
+      "genre": "prepared_television",
+      "path": "references/sources/transcripts/conversations/C07c-Television_literal.txt",
+      "pdf_file_page": 3,
+      "text_lines_1_based": [
+        64,
+        67
+      ],
+      "raw_character_range_0_based_half_open": [
+        1165,
+        1452
+      ],
+      "start_marker": "Je dis toujours la vérité",
+      "end_marker": "vérité touche au réel.",
+      "raw_utf8_sha256": "79166b98a7265376a86b8a899d56c5b14996cf6a47d38df5606ffc1f5901049d",
+      "clean_utf8_sha256": "149ba113ffcd5cd5957e092bb99b3c30289a28ce18e9b98ad99c1cfe7e6a57eb",
+      "editorial_bracket_groups_removed": 1,
+      "manual_figure_label": "none",
+      "manual_annotation": "assertion interrupted and qualified; editorial insertion removed",
+      "metrics": {
+        "words": 40,
+        "sentence_segments": 3,
+        "sentence_word_lengths": [
+          16,
+          13,
+          11
+        ],
+        "mean_words_per_segment": 13.333,
+        "median_words_per_segment": 13,
+        "segments_if_ellipsis_is_boundary": 4,
+        "question_marks": 0,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V11",
+      "source_id": "C07c",
+      "genre": "prepared_television",
+      "path": "references/sources/transcripts/conversations/C07c-Television_literal.txt",
+      "pdf_file_page": 10,
+      "text_lines_1_based": [
+        500,
+        503
+      ],
+      "raw_character_range_0_based_half_open": [
+        28384,
+        28868
+      ],
+      "start_marker": "Un saint - pour me faire comprendre",
+      "end_marker": "ce que je dis.",
+      "raw_utf8_sha256": "301a3e1d6688e202c99c96be3a444747ec65456cc5350924506683d6785daf0f",
+      "clean_utf8_sha256": "f173410aa05d978ea5e9a9a72eb4c7b8b1b859e4d93936327d6c0906481132d3",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "saint and refuse; prepared analogy",
+      "metrics": {
+        "words": 85,
+        "sentence_segments": 5,
+        "sentence_word_lengths": [
+          11,
+          9,
+          25,
+          23,
+          17
+        ],
+        "mean_words_per_segment": 17,
+        "median_words_per_segment": 17,
+        "segments_if_ellipsis_is_boundary": 5,
+        "question_marks": 0,
+        "first_person_singular_markers": 2,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V12",
+      "source_id": "C07c",
+      "genre": "prepared_television",
+      "path": "references/sources/transcripts/conversations/C07c-Television_literal.txt",
+      "pdf_file_page": 10,
+      "text_lines_1_based": [
+        532,
+        534
+      ],
+      "raw_character_range_0_based_half_open": [
+        31076,
+        31330
+      ],
+      "start_marker": "Qu’on me réponde seulement",
+      "end_marker": "pensée que ça décharge.",
+      "raw_utf8_sha256": "451d819e31eb096aeead64fe07e0fd0700115f40ef8f7b38ae4b9b08db04cb75",
+      "clean_utf8_sha256": "879193d0043d635d218ecaee00a83d407f0b017c7c547a69703f59431e4ccdb7",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "explicit_example",
+      "manual_annotation": "three rhetorical questions; adrenaline example",
+      "metrics": {
+        "words": 43,
+        "sentence_segments": 5,
+        "sentence_word_lengths": [
+          13,
+          8,
+          8,
+          7,
+          7
+        ],
+        "mean_words_per_segment": 8.6,
+        "median_words_per_segment": 8,
+        "segments_if_ellipsis_is_boundary": 5,
+        "question_marks": 3,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V13",
+      "source_id": "C08",
+      "genre": "press_conference",
+      "path": "references/sources/transcripts/conversations/C08-Rome_presse_1974.txt",
+      "pdf_file_page": 7,
+      "text_lines_1_based": [
+        352,
+        357
+      ],
+      "raw_character_range_0_based_half_open": [
+        24177,
+        24700
+      ],
+      "start_marker": "Alors je ne suis pas",
+      "end_marker": "servi pour ça.",
+      "raw_utf8_sha256": "63c46cd189a53e14dccbcf489e83a6391ae78d3c484976b12cd656b04b101b52",
+      "clean_utf8_sha256": "7446dd455249826d1077b509fd9901c04958f9b0b0e070f5dc010c0ccab17d7b",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "cannot verify translation; sarcasm retained",
+      "metrics": {
+        "words": 95,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          95
+        ],
+        "mean_words_per_segment": 95,
+        "median_words_per_segment": 95,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 8,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 1,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 1
+      }
+    },
+    {
+      "id": "V14",
+      "source_id": "C08",
+      "genre": "press_conference",
+      "path": "references/sources/transcripts/conversations/C08-Rome_presse_1974.txt",
+      "pdf_file_page": 7,
+      "text_lines_1_based": [
+        358,
+        378
+      ],
+      "raw_character_range_0_based_half_open": [
+        24703,
+        26621
+      ],
+      "start_marker": "Et puis je vais",
+      "end_marker": "vaut ce qu’elle vaut.",
+      "raw_utf8_sha256": "6a56e7f37bcba9ed68f89ac4d2811862a90e02f3d4466bc1fe2bcbe03455e192",
+      "clean_utf8_sha256": "adfcceb9d6e01898a485b0294f1c88e18d037781de8d6833b5b33dc8b858e4b9",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "paper flowers; self promotion retained",
+      "metrics": {
+        "words": 348,
+        "sentence_segments": 11,
+        "sentence_word_lengths": [
+          44,
+          46,
+          6,
+          8,
+          17,
+          9,
+          21,
+          4,
+          19,
+          166,
+          8
+        ],
+        "mean_words_per_segment": 31.636,
+        "median_words_per_segment": 17,
+        "segments_if_ellipsis_is_boundary": 11,
+        "question_marks": 0,
+        "first_person_singular_markers": 16,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 4,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 4,
+        "analogy_surface_markers": {
+          "comme": 3,
+          "par exemple": 0,
+          "comparaison": 1,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 4
+      }
+    },
+    {
+      "id": "V15",
+      "source_id": "C08",
+      "genre": "press_conference",
+      "path": "references/sources/transcripts/conversations/C08-Rome_presse_1974.txt",
+      "pdf_file_page": 12,
+      "text_lines_1_based": [
+        640,
+        651
+      ],
+      "raw_character_range_0_based_half_open": [
+        45080,
+        46137
+      ],
+      "start_marker": "Ce à quoi je m’efforce",
+      "end_marker": "pas le moins du monde.",
+      "raw_utf8_sha256": "1f87a0ddc0ddfd9d604adf03c8ba8c2e32bd9bdbaf719ee09867d33324915345",
+      "clean_utf8_sha256": "672badaa6adc5cf9de8ce5230cccc1def1a2a72ef3a66bf982da5d3492763ce2",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "limited clinical basis; handrail/stairs analogy",
+      "metrics": {
+        "words": 168,
+        "sentence_segments": 5,
+        "sentence_word_lengths": [
+          36,
+          48,
+          36,
+          18,
+          30
+        ],
+        "mean_words_per_segment": 33.6,
+        "median_words_per_segment": 36,
+        "segments_if_ellipsis_is_boundary": 5,
+        "question_marks": 0,
+        "first_person_singular_markers": 6,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V16",
+      "source_id": "C11",
+      "genre": "peer_questions",
+      "path": "references/sources/transcripts/conversations/C11-Yale_Kanzer_1975.txt",
+      "pdf_file_page": 12,
+      "text_lines_1_based": [
+        651,
+        659
+      ],
+      "raw_character_range_0_based_half_open": [
+        44911,
+        45669
+      ],
+      "start_marker": "Jusqu’à présent, tout",
+      "end_marker": "l’usage de petites lettres.",
+      "raw_utf8_sha256": "29e8eeaa31bff2f6c978e74c38a3623cbfcb46ccf1471737daf067460736c3dd",
+      "clean_utf8_sha256": "885551ec659d510a50a385239ebdaba1e1cff283831c178e0a1e5512226d43a7",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "explicit_example",
+      "manual_annotation": "formula and electrons; science claims not validated here",
+      "metrics": {
+        "words": 122,
+        "sentence_segments": 6,
+        "sentence_word_lengths": [
+          13,
+          25,
+          24,
+          14,
+          28,
+          18
+        ],
+        "mean_words_per_segment": 20.333,
+        "median_words_per_segment": 21.0,
+        "segments_if_ellipsis_is_boundary": 6,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 4,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 2,
+          "par exemple": 1,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 3
+      }
+    },
+    {
+      "id": "V17",
+      "source_id": "C11",
+      "genre": "peer_questions",
+      "path": "references/sources/transcripts/conversations/C11-Yale_Kanzer_1975.txt",
+      "pdf_file_page": 12,
+      "text_lines_1_based": [
+        663,
+        664
+      ],
+      "raw_character_range_0_based_half_open": [
+        45786,
+        45935
+      ],
+      "start_marker": "Il est certain que j’essaie",
+      "end_marker": "ces petites lettres.",
+      "raw_utf8_sha256": "d5ba73849d5adf6e1d0b1d3705d5be4975bf4214f6be4b3056e5957ff52badba",
+      "clean_utf8_sha256": "e9d4b62bc8c72491edb68e99bcede03b673cbcf2c32e2bf852ca945a9264649a",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "nucleus and scientific letters; first complete paragraph",
+      "metrics": {
+        "words": 26,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          26
+        ],
+        "mean_words_per_segment": 26,
+        "median_words_per_segment": 26,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 1,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 1,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 2
+      }
+    },
+    {
+      "id": "V18",
+      "source_id": "C11",
+      "genre": "peer_questions",
+      "path": "references/sources/transcripts/conversations/C11-Yale_Kanzer_1975.txt",
+      "pdf_file_page": 12,
+      "text_lines_1_based": [
+        688,
+        689
+      ],
+      "raw_character_range_0_based_half_open": [
+        47372,
+        47462
+      ],
+      "start_marker": "Je n’ai pas dit tout",
+      "end_marker": "un minimum mathématisable.",
+      "raw_utf8_sha256": "257aa4f8f1bfc5b74e8f5d2ea42ec23283669077db7f4965f9963df4f8ac1937",
+      "clean_utf8_sha256": "283e0a4f8b9cecfacdaa0a603467b901d1d2d5604cdca7da139e0997ffb70eb1",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "short corrective answer limits a formulation",
+      "metrics": {
+        "words": 14,
+        "sentence_segments": 1,
+        "sentence_word_lengths": [
+          14
+        ],
+        "mean_words_per_segment": 14,
+        "median_words_per_segment": 14,
+        "segments_if_ellipsis_is_boundary": 1,
+        "question_marks": 0,
+        "first_person_singular_markers": 1,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V19",
+      "source_id": "C13c",
+      "genre": "clinical_lecture_questions",
+      "path": "references/sources/articles/conversations/C13c-Geneve_1975.txt",
+      "pdf_file_page": null,
+      "text_lines_1_based": [
+        148,
+        148
+      ],
+      "raw_character_range_0_based_half_open": [
+        31623,
+        31965
+      ],
+      "start_marker": "Je ne suis pas absolument sûr",
+      "end_marker": "n’est pas encore arrivé.",
+      "raw_utf8_sha256": "09c08f59742a9061411408d3a2addac0d4d78245bd6fe3f62c7569bff9dd8757",
+      "clean_utf8_sha256": "09c08f59742a9061411408d3a2addac0d4d78245bd6fe3f62c7569bff9dd8757",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "none",
+      "manual_annotation": "revisability; boast retained",
+      "metrics": {
+        "words": 62,
+        "sentence_segments": 4,
+        "sentence_word_lengths": [
+          10,
+          12,
+          21,
+          19
+        ],
+        "mean_words_per_segment": 15.5,
+        "median_words_per_segment": 15.5,
+        "segments_if_ellipsis_is_boundary": 4,
+        "question_marks": 0,
+        "first_person_singular_markers": 6,
+        "first_person_plural_nous": 0,
+        "contrast_markers": {
+          "mais": 1,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 1,
+        "analogy_surface_markers": {
+          "comme": 0,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 0
+      }
+    },
+    {
+      "id": "V20",
+      "source_id": "C13c",
+      "genre": "clinical_lecture_questions",
+      "path": "references/sources/articles/conversations/C13c-Geneve_1975.txt",
+      "pdf_file_page": null,
+      "text_lines_1_based": [
+        253,
+        253
+      ],
+      "raw_character_range_0_based_half_open": [
+        41345,
+        41767
+      ],
+      "start_marker": "– Il est certain que c’est",
+      "end_marker": "sentiment comme analystes.",
+      "raw_utf8_sha256": "fd31fa09f3c3ab7933d85c485e12fa5e563277d03f7ad7259ee32d93b471c6ce",
+      "clean_utf8_sha256": "fd31fa09f3c3ab7933d85c485e12fa5e563277d03f7ad7259ee32d93b471c6ce",
+      "editorial_bracket_groups_removed": 0,
+      "manual_figure_label": "analogy",
+      "manual_annotation": "written body; unexplored clinical conjecture",
+      "metrics": {
+        "words": 75,
+        "sentence_segments": 6,
+        "sentence_word_lengths": [
+          12,
+          9,
+          10,
+          11,
+          20,
+          13
+        ],
+        "mean_words_per_segment": 12.5,
+        "median_words_per_segment": 11.5,
+        "segments_if_ellipsis_is_boundary": 6,
+        "question_marks": 0,
+        "first_person_singular_markers": 0,
+        "first_person_plural_nous": 2,
+        "contrast_markers": {
+          "mais": 0,
+          "pourtant": 0,
+          "cependant": 0,
+          "néanmoins": 0,
+          "toutefois": 0,
+          "or": 0,
+          "au contraire": 0,
+          "en revanche": 0
+        },
+        "contrast_marker_total": 0,
+        "analogy_surface_markers": {
+          "comme": 3,
+          "par exemple": 0,
+          "comparaison": 0,
+          "de la même façon": 0,
+          "à la façon": 0
+        },
+        "analogy_surface_marker_total": 3
+      }
+    }
+  ],
+  "groups": [
+    {
+      "source_id": "C01",
+      "genre": "newspaper_interview",
+      "samples": 3,
+      "words": 195,
+      "sentence_segments": 10,
+      "question_marks": 2,
+      "first_person_singular_markers": 1,
+      "first_person_plural_nous": 1,
+      "contrast_marker_total": 1,
+      "analogy_surface_marker_total": 2,
+      "segments_if_ellipsis_is_boundary": 10,
+      "pooled_mean_words_per_segment": 19.5,
+      "pooled_median_words_per_segment": 21.0,
+      "per_100_words": {
+        "question_marks": 1.026,
+        "first_person_singular_markers": 0.513,
+        "first_person_plural_nous": 0.513,
+        "contrast_marker_total": 0.513,
+        "analogy_surface_marker_total": 1.026
+      },
+      "manual_figure_labels": {
+        "analogy": 3
+      }
+    },
+    {
+      "source_id": "W12",
+      "genre": "published_paper",
+      "samples": 3,
+      "words": 257,
+      "sentence_segments": 5,
+      "question_marks": 0,
+      "first_person_singular_markers": 0,
+      "first_person_plural_nous": 4,
+      "contrast_marker_total": 2,
+      "analogy_surface_marker_total": 4,
+      "segments_if_ellipsis_is_boundary": 5,
+      "pooled_mean_words_per_segment": 51.4,
+      "pooled_median_words_per_segment": 47,
+      "per_100_words": {
+        "question_marks": 0.0,
+        "first_person_singular_markers": 0.0,
+        "first_person_plural_nous": 1.556,
+        "contrast_marker_total": 0.778,
+        "analogy_surface_marker_total": 1.556
+      },
+      "manual_figure_labels": {
+        "none": 2,
+        "formal_model": 1
+      }
+    },
+    {
+      "source_id": "STA-S13",
+      "genre": "live_seminar",
+      "samples": 3,
+      "words": 222,
+      "sentence_segments": 4,
+      "question_marks": 1,
+      "first_person_singular_markers": 8,
+      "first_person_plural_nous": 2,
+      "contrast_marker_total": 1,
+      "analogy_surface_marker_total": 2,
+      "segments_if_ellipsis_is_boundary": 6,
+      "pooled_mean_words_per_segment": 55.5,
+      "pooled_median_words_per_segment": 41.5,
+      "per_100_words": {
+        "question_marks": 0.45,
+        "first_person_singular_markers": 3.604,
+        "first_person_plural_nous": 0.901,
+        "contrast_marker_total": 0.45,
+        "analogy_surface_marker_total": 0.901
+      },
+      "manual_figure_labels": {
+        "metaphor": 1,
+        "explicit_example": 1,
+        "none": 1
+      }
+    },
+    {
+      "source_id": "C07c",
+      "genre": "prepared_television",
+      "samples": 3,
+      "words": 168,
+      "sentence_segments": 13,
+      "question_marks": 3,
+      "first_person_singular_markers": 4,
+      "first_person_plural_nous": 0,
+      "contrast_marker_total": 1,
+      "analogy_surface_marker_total": 0,
+      "segments_if_ellipsis_is_boundary": 14,
+      "pooled_mean_words_per_segment": 12.923,
+      "pooled_median_words_per_segment": 11,
+      "per_100_words": {
+        "question_marks": 1.786,
+        "first_person_singular_markers": 2.381,
+        "first_person_plural_nous": 0.0,
+        "contrast_marker_total": 0.595,
+        "analogy_surface_marker_total": 0.0
+      },
+      "manual_figure_labels": {
+        "none": 1,
+        "analogy": 1,
+        "explicit_example": 1
+      }
+    },
+    {
+      "source_id": "C08",
+      "genre": "press_conference",
+      "samples": 3,
+      "words": 611,
+      "sentence_segments": 17,
+      "question_marks": 0,
+      "first_person_singular_markers": 30,
+      "first_person_plural_nous": 0,
+      "contrast_marker_total": 6,
+      "analogy_surface_marker_total": 5,
+      "segments_if_ellipsis_is_boundary": 17,
+      "pooled_mean_words_per_segment": 35.941,
+      "pooled_median_words_per_segment": 21,
+      "per_100_words": {
+        "question_marks": 0.0,
+        "first_person_singular_markers": 4.91,
+        "first_person_plural_nous": 0.0,
+        "contrast_marker_total": 0.982,
+        "analogy_surface_marker_total": 0.818
+      },
+      "manual_figure_labels": {
+        "none": 1,
+        "analogy": 2
+      }
+    },
+    {
+      "source_id": "C11",
+      "genre": "peer_questions",
+      "samples": 3,
+      "words": 162,
+      "sentence_segments": 8,
+      "question_marks": 0,
+      "first_person_singular_markers": 2,
+      "first_person_plural_nous": 4,
+      "contrast_marker_total": 2,
+      "analogy_surface_marker_total": 5,
+      "segments_if_ellipsis_is_boundary": 8,
+      "pooled_mean_words_per_segment": 20.25,
+      "pooled_median_words_per_segment": 21.0,
+      "per_100_words": {
+        "question_marks": 0.0,
+        "first_person_singular_markers": 1.235,
+        "first_person_plural_nous": 2.469,
+        "contrast_marker_total": 1.235,
+        "analogy_surface_marker_total": 3.086
+      },
+      "manual_figure_labels": {
+        "explicit_example": 1,
+        "analogy": 1,
+        "none": 1
+      }
+    },
+    {
+      "source_id": "C13c",
+      "genre": "clinical_lecture_questions",
+      "samples": 2,
+      "words": 137,
+      "sentence_segments": 10,
+      "question_marks": 0,
+      "first_person_singular_markers": 6,
+      "first_person_plural_nous": 2,
+      "contrast_marker_total": 1,
+      "analogy_surface_marker_total": 3,
+      "segments_if_ellipsis_is_boundary": 10,
+      "pooled_mean_words_per_segment": 13.7,
+      "pooled_median_words_per_segment": 12.0,
+      "per_100_words": {
+        "question_marks": 0.0,
+        "first_person_singular_markers": 4.38,
+        "first_person_plural_nous": 1.46,
+        "contrast_marker_total": 0.73,
+        "analogy_surface_marker_total": 2.19
+      },
+      "manual_figure_labels": {
+        "none": 1,
+        "analogy": 1
+      }
+    }
+  ]
+}

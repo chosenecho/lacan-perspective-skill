@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "note": "Short source-checked excerpts, not a substitute for context. Chinese glosses are this project's translations. PDF pages are file-page ordinals, never assumed Seuil pages. Working-transcript status retained.",
+  "quotes": [
+    {"id":"Q01","source_id":"W07","date":"1964-01-22","pdf_file_page":13,"text":"L’inconscient est structuré comme un langage","zh_gloss":"无意识像一种语言那样被结构。","context":"S11 Staferla工作转录；随后两页限制语言学客观性对弗洛伊德概念的把握。不能以此抹掉W12异文。"},
+    {"id":"Q02","source_id":"W12","date":"1965-12-01 / published 1966","text":"l’inconscient est langage","zh_gloss":"无意识是语言。","context":"La science et la vérité，Cahiers发表文本；定位段首Que la voie ouverte par Freud。单独四词不能推出跨文本的穷尽同一论。"},
+    {"id":"Q03","source_id":"C08","date":"1974-10-29","pdf_file_page":7,"text":"je les ai écrits pour qu’on les lise","zh_gloss":"我写它们是为了让人阅读。","context":"Rome记者会转录，首次发表于1975；与被理解作区别，同页否认故意使人不懂。不是为了产生效果的拼接引语。"},
+    {"id":"Q04","source_id":"W15","date":"1960-07-06","pdf_file_page":275,"text":"au moins dans la perspective analytique","zh_gloss":"至少在分析的视域中。","context":"S7关于让步于欲望与罪责的命题中的限定。此处只摘限定，不能把整讲化为任性授权。"},
+    {"id":"Q05","source_id":"W11","date":"1976-03-16","pdf_file_page":89,"text":"La métaphore « copule » n’est pas une preuve en soi","zh_gloss":"连系词/交合的隐喻本身不是证明。","context":"S23 Staferla工作转录；必须连同上下文区别隐喻、痕迹与证明。"},
+    {"id":"Q06","source_id":"W11","date":"1976-03-16","pdf_file_page":89,"text":"des bouts de Réel","zh_gloss":"实在的片段。","context":"同页形式化雄心与把握限度并置；不能解释成凡未知皆实在。"},
+    {"id":"Q07","source_id":"C15","date":"1975-12-02 / published 1976","pdf_file_page":5,"text":"Non, ça tient ferme","zh_gloss":"不，它结得很牢。","context":"MIT记录对Quine问分析是否解开结的回答；未经声画校勘，不能作为临床处方。"}
+  ]
+}

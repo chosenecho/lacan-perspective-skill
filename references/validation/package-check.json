@@ -1,0 +1,207 @@
+{
+  "checked_at_utc": "2026-11-02T17:51:02.079683+00:00",
+  "with_private_corpus": true,
+  "passed": true,
+  "checks": [
+    {
+      "check": "frontmatter_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "yaml_name",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "yaml_description",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "yaml_keys",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "entrypoint_progressive_disclosure",
+      "passed": true,
+      "detail": {
+        "lines": 167,
+        "bytes": 16036
+      }
+    },
+    {
+      "check": "seven_models",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "model_operational_fields",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "ten_heuristics",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_entrypoint_placeholders",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "research_dimension_1",
+      "passed": true,
+      "detail": {
+        "dimension": 1,
+        "files": [
+          "01-writings.md"
+        ],
+        "han_characters": 5053
+      }
+    },
+    {
+      "check": "research_dimension_2",
+      "passed": true,
+      "detail": {
+        "dimension": 2,
+        "files": [
+          "02-conversations.md"
+        ],
+        "han_characters": 6206
+      }
+    },
+    {
+      "check": "research_dimension_3",
+      "passed": true,
+      "detail": {
+        "dimension": 3,
+        "files": [
+          "03-expression-dna.md"
+        ],
+        "han_characters": 5251
+      }
+    },
+    {
+      "check": "research_dimension_4",
+      "passed": true,
+      "detail": {
+        "dimension": 4,
+        "files": [
+          "04-external-views.md"
+        ],
+        "han_characters": 5478
+      }
+    },
+    {
+      "check": "research_dimension_5",
+      "passed": true,
+      "detail": {
+        "dimension": 5,
+        "files": [
+          "05-decisions.md"
+        ],
+        "han_characters": 4132
+      }
+    },
+    {
+      "check": "research_dimension_6",
+      "passed": true,
+      "detail": {
+        "dimension": 6,
+        "files": [
+          "06-timeline.md"
+        ],
+        "han_characters": 3606
+      }
+    },
+    {
+      "check": "local_markdown_links",
+      "passed": true,
+      "detail": {
+        "checked": 49,
+        "broken": []
+      }
+    },
+    {
+      "check": "unique_source_ids",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "primary_majority_explicit_units",
+      "passed": true,
+      "detail": {
+        "primary_units": 40,
+        "all_substantive_units": 63,
+        "ratio": 0.6349206349206349,
+        "not_a_word_or_page_ratio": true
+      }
+    },
+    {
+      "check": "quote_source_ids",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "private_corpus_hashes",
+      "passed": true,
+      "detail": {
+        "distinct_files": 167,
+        "failures": []
+      }
+    },
+    {
+      "check": "literal_quote_page_matches",
+      "passed": true,
+      "detail": [
+        {
+          "id": "Q01",
+          "source_id": "W07",
+          "file_page": 13,
+          "literal_match": true
+        },
+        {
+          "id": "Q02",
+          "source_id": "W12",
+          "file_page": null,
+          "literal_match": true
+        },
+        {
+          "id": "Q03",
+          "source_id": "C08",
+          "file_page": 7,
+          "literal_match": true
+        },
+        {
+          "id": "Q04",
+          "source_id": "W15",
+          "file_page": 275,
+          "literal_match": true
+        },
+        {
+          "id": "Q05",
+          "source_id": "W11",
+          "file_page": 89,
+          "literal_match": true
+        },
+        {
+          "id": "Q06",
+          "source_id": "W11",
+          "file_page": 89,
+          "literal_match": true
+        },
+        {
+          "id": "Q07",
+          "source_id": "C15",
+          "file_page": 5,
+          "literal_match": true
+        }
+      ]
+    }
+  ],
+  "warnings": [],
+  "limitation": "Structural/hash/literal checks do not validate historical interpretation, style quality, clinical efficacy or all possible responses."
+}

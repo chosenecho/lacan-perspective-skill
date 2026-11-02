@@ -1,0 +1,6 @@
+interface:
+  display_name: "拉康视角"
+  short_description: "从言说、欲望与主体关系分析问题；七模型与六维原文证据，可切换为文本细读"
+  default_prompt: "用 $lacan-perspective 分析这个问题，给出文本依据、另一种解释和一个可做的下一步。"
+policy:
+  allow_implicit_invocation: true

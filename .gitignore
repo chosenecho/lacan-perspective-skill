@@ -1,0 +1,7 @@
+# Public third-party research corpus is kept locally, not relicensed or published.
+references/sources/books/
+references/sources/transcripts/
+references/sources/articles/
+.tmp/
+__pycache__/
+*.pyc
